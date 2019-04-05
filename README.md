@@ -16,13 +16,6 @@ ResNet - A classification network --
 VGGNet - A classification network -- 
   Simonyan K, Zisserman A. Very deep convolutional networks for large-scale image recognition. 
 
-UNet - A segmentation network -- 
-  Ronneberger O, Fischer P, Brox T. U-net: Convolutional networks for biomedical image segmentation.
-
-Recurrent UNet - A convolutional-recurrent network built on top of a trained U-Net for segmentation of 3D volumes -- 
-  Ronneberger O, Fischer P, Brox T. U-net: Convolutional networks for biomedical image segmentation.
-  Xingjian SH, Chen Z, Wang H, Yeung DY, Wong WK, Woo WC. Convolutional LSTM network: A machine learning approach for precipitation nowcasting. 
-    Chen J, Yang L, Zhang Y, Alber M, Chen DZ. Combining fully convolutional and recurrent neural networks for 3d biomedical image segmentation.
 
 
 
