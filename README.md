@@ -1,5 +1,5 @@
 # TF_Model_Zoo
-A model zoo of prominent deep learning architectures implemented in TensorFlow
+Some implementeations of prominent deep learning architectures in TensorFlow
 
 ..
 ..
